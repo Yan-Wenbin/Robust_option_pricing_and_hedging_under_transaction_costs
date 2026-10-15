@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "superhedge: super-hedging prices and strategies under proportional transaction costs"
+version: 1.2.0
+license: MIT
+authors:
+  - family-names: Omrani
+    given-names: Amal
+  - family-names: Yan
+    given-names: Wenbin
+repository-code: "https://github.com/<user>/superhedge"

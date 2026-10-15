@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+
+[dev]
+pytest>=7
+
+[examples]
+matplotlib>=3.7
