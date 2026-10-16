@@ -1,4 +1,11 @@
-# superhedge
+# superhedge-lib
+
+Jointly created, developed, and maintained by **Wenbin Yan** and **Amal Omrani**.
+
+## Co-authors
+
+- [Wenbin Yan](https://github.com/Yan-Wenbin)
+- [Amal Omrani](https://github.com/Amal-Omrani)
 
 **Super-hedging prices and hedging strategies for options under proportional transaction costs.**
 
